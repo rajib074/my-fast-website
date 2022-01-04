@@ -13,7 +13,7 @@ section{
 }
 .hafe_width{
     width: 50%;
-    padding-left: 5%;
+    padding: 5%;
 }
 .hafe_width img{
     width: 80%;
@@ -29,6 +29,12 @@ section{
 .top_benar{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.bag_dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
 }
 
 
