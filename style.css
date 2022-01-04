@@ -23,7 +23,7 @@ h1{
     color: white;
     text-decoration: none;
     padding: 10px 40px;
-    background-image:linear-gradient(blue, red);
+    background-image:linear-gradient(orange, red);
     border-radius: 5%;
 }
 .top_benar{
@@ -36,5 +36,36 @@ h1{
     background-position: right;
     
 }
-
+.Experiences{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+h2{
+    font-size: 35px;
+}
+.Experiences_item{
+    width: 40%;
+    box-shadow: 10px 10px 40px;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding: 20px;
+   border-radius: 10px;
+}
+#FullStackWebDeveloper{
+    border-left: 7px solid;
+    border-image: linear-gradient( red,cyan);
+    border-image-slice: 1;
+}
+#BabyWebDeveloper{
+    border-left: 7px solid;
+    border-image: linear-gradient( blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+footer{
+    margin-top: 150px;
+}
 
